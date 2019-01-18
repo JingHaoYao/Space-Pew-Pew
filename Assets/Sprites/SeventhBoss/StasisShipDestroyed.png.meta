@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 70449c3d78d655d419f9d42903350af7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StasisShipDestroyed_0
+    21300002: StasisShipDestroyed_1
+    21300004: StasisShipDestroyed_2
+    21300006: StasisShipDestroyed_3
+    21300008: StasisShipDestroyed_4
+    21300010: StasisShipDestroyed_7
+    21300012: StasisShipDestroyed_18
+    21300014: StasisShipDestroyed_5
+    21300016: StasisShipDestroyed_6
+    21300018: StasisShipDestroyed_8
+    21300020: StasisShipDestroyed_9
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StasisShipDestroyed_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3822
+        width: 584
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44f859ca67c99b4e9abb3e19fb61168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_1
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 3822
+        width: 584
+        height: 363
+      alignment: 9
+      pivot: {x: 0.4999998, y: 0.5169203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20605e19917887c4c91118a2cb7adab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_2
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 3822
+        width: 584
+        height: 363
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51480514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895573ee5e6d2541a05cd6f1adb4792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2734
+        width: 584
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f985264603af4e8a38d6fb5d390d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_4
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 2736
+        width: 584
+        height: 360
+      alignment: 9
+      pivot: {x: 0.50414765, y: 0.5224284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485dd0a78544ea04c9c4fd121d480a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_7
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 2735
+        width: 584
+        height: 362
+      alignment: 9
+      pivot: {x: 0.50138247, y: 0.5245355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9298dc98dc0049b6e3b31bad270ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1918
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2a555f2eb2af24685330ee58b932ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1648
+        width: 581
+        height: 359
+      alignment: 9
+      pivot: {x: 0.50267744, y: 0.5303326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd33516fae0b614e89e52b5da042874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_6
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1644
+        width: 582
+        height: 360
+      alignment: 9
+      pivot: {x: 0.4987298, y: 0.5369819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc6ef1e4d3c88147950e3affd42916d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_8
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1649
+        width: 585
+        height: 360
+      alignment: 9
+      pivot: {x: 0.50406486, y: 0.56275874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a486b16d65d1872458235add72f512ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StasisShipDestroyed_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 542
+        width: 521
+        height: 385
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.57331985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93a3bcdc15475043a5babad8a1b0a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b035dd5767119494585597ec42e9a954
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: b34008056ed74e2418c1f650a8487296
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PirateCaptainLightning_1
+    21300002: PirateCaptainLightning_2
+    21300004: PirateCaptainLightning_4
+    21300006: PirateCaptainLightning_6
+    21300008: PirateCaptainLightning_8
+    21300010: PirateCaptainLightning_9
+    21300012: PirateCaptainLightning_12
+    21300014: PirateCaptainLightning_13
+    21300016: PirateCaptainLightning_15
+    21300018: PirateCaptainLightning_17
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PirateCaptainLightning_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3344
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.6304769, y: 0.85729206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924baaf4df8ad84fb3297f1045b8947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainLightning_2
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3342
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.6304768, y: 0.8607277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d48a22009e00740a05bb0e3b7dd2ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainLightning_4
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 3344
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.6304768, y: 0.8538567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225855a270b480149b714e9d454fcbe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainLightning_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2262
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.63998526, y: 0.8579381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9353f4fd15f061d458abdd52178df545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainLightning_8
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2264
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.6322083, y: 0.8579381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb1bc516ca415f44a2d5ab60c0d0c8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainLightning_9
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 2263
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.6322083, y: 0.86264825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ae354e4f281d7409f91aba85523eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainLightning_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1177
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.63220817, y: 0.8626476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa2bdb0f5b05946aad76c7d34c09ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainLightning_13
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1183
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.6355622, y: 0.8586294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce4218b337f7e4695987d0cc105986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainLightning_15
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 1182
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.63858265, y: 0.8596792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e499bc13e02ed46b3db076d96b0152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainLightning_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 101
+        width: 476
+        height: 786
+      alignment: 9
+      pivot: {x: 0.6319833, y: 0.8596792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b75e06df090ec34b974527ad066417d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bde437f7a9befa64f9600f18c3229c6c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

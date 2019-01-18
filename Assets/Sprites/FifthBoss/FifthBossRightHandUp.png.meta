@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: e79c536ec3bc2f949bb1ff4e830499ad
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FifthBossRightHandUp_0
+    21300002: FifthBossRightHandUp_1
+    21300004: FifthBossRightHandUp_2
+    21300006: FifthBossRightHandUp_3
+    21300008: FifthBossRightHandUp_4
+    21300010: FifthBossRightHandUp_5
+    21300012: FifthBossRightHandUp_6
+    21300014: FifthBossRightHandUp_7
+    21300016: FifthBossRightHandUp_8
+    21300018: FifthBossRightHandUp_9
+    21300020: FifthBossRightHandUp_10
+    21300022: FifthBossRightHandUp_11
+    21300024: FifthBossRightHandUp_12
+    21300026: FifthBossRightHandUp_13
+    21300028: FifthBossRightHandUp_14
+    21300030: FifthBossRightHandUp_15
+    21300032: FifthBossRightHandUp_16
+    21300034: FifthBossRightHandUp_17
+    21300036: FifthBossRightHandUp_18
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4435
+        width: 566
+        height: 940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec1d776c79fdf6438b0264117ba04bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_1
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 4416
+        width: 704
+        height: 959
+      alignment: 9
+      pivot: {x: 0.40446454, y: 0.5087672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe49085aa50be48b8c2d605213f84c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_2
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 4435
+        width: 720
+        height: 940
+      alignment: 9
+      pivot: {x: 0.39157477, y: 0.49872267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf4c6ab1b4f374994e405b9485dba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_3
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 4416
+        width: 755
+        height: 959
+      alignment: 9
+      pivot: {x: 0.37893212, y: 0.507061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ed329609b5fff45aa875d2754f3cbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3346
+        width: 787
+        height: 942
+      alignment: 9
+      pivot: {x: 0.35960123, y: 0.50000054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c443b8bb8abf44bbda1471159ed43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_5
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 3346
+        width: 704
+        height: 942
+      alignment: 9
+      pivot: {x: 0.40446454, y: 0.50000054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6216acfdd36bc7e4795562ce1c81aabf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_6
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 3346
+        width: 685
+        height: 942
+      alignment: 9
+      pivot: {x: 0.41233462, y: 0.50000054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cd354f71ffe5043b5aa373efc347c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_7
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3346
+        width: 670
+        height: 942
+      alignment: 9
+      pivot: {x: 0.4247125, y: 0.49872538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ff7e2b8e1eed43868932aca06de9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2257
+        width: 584
+        height: 942
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb13b6af93b3a74f961c1d4f1c65a2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_9
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2257
+        width: 585
+        height: 942
+      alignment: 9
+      pivot: {x: 0.48768216, y: 0.5012751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4d7aaa4476cd841bae7c8ee2688166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_10
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2257
+        width: 584
+        height: 942
+      alignment: 9
+      pivot: {x: 0.4835481, y: 0.50255024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782ae31bb615b74196cd251d9969fc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_11
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2257
+        width: 670
+        height: 942
+      alignment: 9
+      pivot: {x: 0.4247125, y: 0.49872538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f78ad637dca841ab2206b34523c43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1170
+        width: 685
+        height: 940
+      alignment: 9
+      pivot: {x: 0.41158518, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85844a91410069a47aa91b3165b165e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_13
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1170
+        width: 704
+        height: 940
+      alignment: 9
+      pivot: {x: 0.40735367, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a97c483e5c02440a6f66f8e8596874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_14
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 1170
+        width: 787
+        height: 940
+      alignment: 9
+      pivot: {x: 0.3618741, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174dc09f6e7ddf14794066a084f707ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_15
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 1152
+        width: 755
+        height: 958
+      alignment: 9
+      pivot: {x: 0.37864497, y: 0.50972587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254fb5e8ef92f174aaf9a447cb496d6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 81
+        width: 720
+        height: 943
+      alignment: 9
+      pivot: {x: 0.3896949, y: 0.50083613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a442a593c7765548994805af51de704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_17
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 65
+        width: 704
+        height: 959
+      alignment: 9
+      pivot: {x: 0.40500432, y: 0.509298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c2f696f72a5ec45a476ab49fd2903f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandUp_18
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 81
+        width: 566
+        height: 943
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3059af747b62d42a26ea87045f1fc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3442ec6fc68b3754a96aaa8bf01ab11c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

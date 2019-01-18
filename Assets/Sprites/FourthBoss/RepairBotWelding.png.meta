@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 7f0329cc50ae45e4fb1efde5b3b5e8e0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RepairBotWelding_0
+    21300002: RepairBotWelding_1
+    21300004: RepairBotWelding_2
+    21300006: RepairBotWelding_3
+    21300008: RepairBotWelding_4
+    21300010: RepairBotWelding_5
+    21300012: RepairBotWelding_6
+    21300014: RepairBotWelding_7
+    21300016: RepairBotWelding_8
+    21300018: RepairBotWelding_9
+    21300020: RepairBotWelding_10
+    21300022: RepairBotWelding_11
+    21300024: RepairBotWelding_12
+    21300026: RepairBotWelding_13
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RepairBotWelding_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2599
+        width: 393
+        height: 395
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.06278864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51610de5507ffb408621eff1b45e970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RepairBotWelding_1
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 2546
+        width: 428
+        height: 465
+      alignment: 9
+      pivot: {x: 0.5109975, y: 0.16033319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dda562e7337ae4ebb3c893ed5e0b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RepairBotWelding_2
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 2599
+        width: 395
+        height: 395
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06278864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ff5142ee3740445aff4fba0c0056c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RepairBotWelding_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1459
+        width: 429
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5054859, y: 0.14906758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe26ae6fa13031444a42d60e31b92d6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RepairBotWelding_5
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1512
+        width: 395
+        height: 393
+      alignment: 9
+      pivot: {x: 0.5, y: 0.060563646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af12d2f3e1253f44e86afcded099de9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RepairBotWelding_6
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1461
+        width: 428
+        height: 460
+      alignment: 9
+      pivot: {x: 0.49429008, y: 0.15113181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be3efcf03f39e046b1240e1cac7d56d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RepairBotWelding_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 423
+        width: 393
+        height: 395
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.050644115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803eee6283f6d6743853d1263757fd4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RepairBotWelding_12
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 357
+        width: 428
+        height: 477
+      alignment: 9
+      pivot: {x: 0.49429008, y: 0.18918122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c48c37ebacc3a2458e33943f41149ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 065fd382a6c9f2f45a900b873397e639
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 030f2991065f8b547ab9d0c8dd82bdfc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MoltenBulletsExplosion_0
+    21300002: MoltenBulletsExplosion_1
+    21300004: MoltenBulletsExplosion_2
+    21300006: MoltenBulletsExplosion_3
+    21300008: MoltenBulletsExplosion_4
+    21300010: MoltenBulletsExplosion_5
+    21300012: MoltenBulletsExplosion_6
+    21300014: MoltenBulletsExplosion_7
+    21300016: MoltenBulletsExplosion_8
+    21300018: MoltenBulletsExplosion_9
+    21300020: MoltenBulletsExplosion_10
+    21300022: MoltenBulletsExplosion_11
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3438
+        width: 729
+        height: 729
+      alignment: 9
+      pivot: {x: 0.49130204, y: 0.49999967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4e95eed032da94fb8b803701b60dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3450
+        width: 773
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b8404cc66b7a249b28479a0d748ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 3374
+        width: 850
+        height: 875
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13351c50494edd84eb85bded9e153b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2271
+        width: 925
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5068552, y: 0.5140904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2492e6ad96c22bf4492924e74e9e70aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2233
+        width: 996
+        height: 989
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.51923376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82f641e3c1c0394bb14012be65c1952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 2239
+        width: 989
+        height: 977
+      alignment: 9
+      pivot: {x: 0.5064114, y: 0.52596015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd1be14aab1b24b9936d7e1fe7073d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1155
+        width: 989
+        height: 976
+      alignment: 9
+      pivot: {x: 0.5064115, y: 0.51949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3b2b7a92dfe2a4eb6ce2c27ffa8621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1472
+        width: 387
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d332b98d525eca744b000a772030fe05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1516
+        width: 304
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5415791, y: 0.5207888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dbb04d95e7637449e5915d03bd7a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 483
+        width: 216
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44437742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1427cab284386c4688ca9e753733fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 508
+        width: 167
+        height: 165
+      alignment: 9
+      pivot: {x: 0.43706802, y: 0.45450366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370003a1e4a05a14bb8b67e1810d1814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoltenBulletsExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 524
+        width: 126
+        height: 127
+      alignment: 9
+      pivot: {x: 0.45028442, y: 0.49999952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3e71333a5a9c4f9f7f4a968a901f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8afed9fe58befc34c88e7dc48e32bf00
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

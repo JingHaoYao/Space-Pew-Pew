@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 7ca173d3135830344b02dacc16e4edb0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SixthBossDestroyed_0
+    21300002: SixthBossDestroyed_1
+    21300004: SixthBossDestroyed_2
+    21300006: SixthBossDestroyed_3
+    21300008: SixthBossDestroyed_4
+    21300010: SixthBossDestroyed_5
+    21300012: SixthBossDestroyed_6
+    21300014: SixthBossDestroyed_7
+    21300016: SixthBossDestroyed_8
+    21300018: SixthBossDestroyed_9
+    21300020: SixthBossDestroyed_10
+    21300022: SixthBossDestroyed_11
+    21300024: SixthBossDestroyed_12
+    21300026: SixthBossDestroyed_13
+    21300028: SixthBossDestroyed_14
+    21300030: SixthBossDestroyed_15
+    21300032: SixthBossDestroyed_16
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SixthBossDestroyed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8667
+        width: 2720
+        height: 1533
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.57740134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee524cc4b2c3a304c8b6a3a9d3d9e127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_1
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 8663
+        width: 2720
+        height: 1537
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29933e8c857fb4e43b70ad5eb1d65444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_2
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 8663
+        width: 2720
+        height: 1537
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929cc37828bffc4ba6ea2a1817d0a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6966
+        width: 2720
+        height: 1534
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58adf0ede91c514f91ebc557cc200be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_4
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 6956
+        width: 2720
+        height: 1544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8558ae4fd5e85d44ea90bbf4553b3482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_5
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 6971
+        width: 2720
+        height: 1544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872747b34ab05ef419751a4a57d03f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5257
+        width: 2720
+        height: 1543
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2ade3f32d6f242acc5b05b48330e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_7
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 5263
+        width: 2720
+        height: 1537
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c9fed400d8d6744ad53aff407375cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_8
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 5257
+        width: 2720
+        height: 1543
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f48ee87125134b8d8a4e678e5d6b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3564
+        width: 2720
+        height: 1536
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948e04dec08124c46a524522d6a4dace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3564
+        width: 2720
+        height: 1536
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e95bbfd95da64287cbccc757a3f2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_11
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 3558
+        width: 2720
+        height: 1548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386667b0e370037449b1f3cbe5b7a55b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 2720
+        height: 1540
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d9924c8048044ead36491ce9f4fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_13
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1860
+        width: 2720
+        height: 1540
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8863f67c416b445a432f15a86f6221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_14
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 1860
+        width: 2720
+        height: 1540
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c1cce83aa7f44fad9d27fb53b1155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 2720
+        height: 1535
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e773169201e243a507de15a7afd86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossDestroyed_16
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 165
+        width: 2729
+        height: 1538
+      alignment: 9
+      pivot: {x: 0.5, y: 0.577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c076ecd5c4c18a046849e97ce6090f54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7f0ad718db984314ca7191df8da3b119
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

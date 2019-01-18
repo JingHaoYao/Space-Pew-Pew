@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 12aa9da53a8e5a44f8f3f49d5a8f1c8d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FifthBossRightHandOut_0
+    21300002: FifthBossRightHandOut_1
+    21300004: FifthBossRightHandOut_2
+    21300006: FifthBossRightHandOut_3
+    21300008: FifthBossRightHandOut_4
+    21300010: FifthBossRightHandOut_5
+    21300012: FifthBossRightHandOut_6
+    21300014: FifthBossRightHandOut_7
+    21300016: FifthBossRightHandOut_8
+    21300018: FifthBossRightHandOut_9
+    21300020: FifthBossRightHandOut_10
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_0
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3346
+        width: 567
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6bde45d3220ea4b854f0576aa6a705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_1
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3329
+        width: 703
+        height: 958
+      alignment: 9
+      pivot: {x: 0.40293604, y: 0.5069488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5ed240a83054d4ba709097f7e435bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_2
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 3346
+        width: 720
+        height: 941
+      alignment: 9
+      pivot: {x: 0.39598185, y: 0.49646267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ef1bbbc5ef314fafbbebd8b77a83d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2241
+        width: 754
+        height: 958
+      alignment: 9
+      pivot: {x: 0.3763923, y: 0.50521153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48373979bf994b34a881ee6542664773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_4
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 2258
+        width: 788
+        height: 941
+      alignment: 9
+      pivot: {x: 0.3627172, y: 0.49646267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd3e146d69dc542a433c39e49c61b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_5
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2241
+        width: 788
+        height: 958
+      alignment: 9
+      pivot: {x: 0.360605, y: 0.5069488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bbe3a5e6e02414b93e2b6025bcbff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1170
+        width: 788
+        height: 941
+      alignment: 9
+      pivot: {x: 0.36060524, y: 0.49646267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f283e094c764334fa128e1bc8184fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_7
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1153
+        width: 754
+        height: 958
+      alignment: 9
+      pivot: {x: 0.37859946, y: 0.50694895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15af010b0bb8f644a61756f4b7329b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_8
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1170
+        width: 720
+        height: 941
+      alignment: 9
+      pivot: {x: 0.39367032, y: 0.49646267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d0e3e8a00e1d429b7a62123cbac3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 65
+        width: 703
+        height: 958
+      alignment: 9
+      pivot: {x: 0.40293613, y: 0.50521183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad39a8be9da4a3408f2b62e5c3db8cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FifthBossRightHandOut_10
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 82
+        width: 567
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17163b87dfdd8e542a162058988e4926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 049c91ddb832c6c4492f8f018f54c45e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

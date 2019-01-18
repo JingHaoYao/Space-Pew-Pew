@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 2fd36135721018d439d1185748272a25
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SideLightningPulsing_0
+    21300002: SideLightningPulsing_1
+    21300004: SideLightningPulsing_2
+    21300006: SideLightningPulsing_3
+    21300008: SideLightningPulsing_4
+    21300010: SideLightningPulsing_5
+    21300012: SideLightningPulsing_6
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SideLightningPulsing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1783
+        width: 1085
+        height: 327
+      alignment: 9
+      pivot: {x: 0.008291471, y: 0.24087198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648fa1546c807b4698107a074d1ba11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideLightningPulsing_1
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1834
+        width: 1088
+        height: 225
+      alignment: 9
+      pivot: {x: 0.010093087, y: 0.121983506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e1ecefa5499254d85fe738d19072d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideLightningPulsing_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1205
+        width: 1086
+        height: 361
+      alignment: 9
+      pivot: {x: 0.006875247, y: 0.30811495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e043f6fe168940a215a74e2eede0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideLightningPulsing_3
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1290
+        width: 1087
+        height: 225
+      alignment: 9
+      pivot: {x: 0.007890997, y: 0.106025934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756eaaf2e6c7df047bde8d612daf482b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideLightningPulsing_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 1086
+        height: 293
+      alignment: 9
+      pivot: {x: 0.0069732834, y: 0.0924166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4351e5c673463ac4cb04133af24007ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideLightningPulsing_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 1090
+        height: 327
+      alignment: 9
+      pivot: {x: 0.007610607, y: 0.18935084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e7dda1bb7454b4dbc2bb761a746b8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideLightningPulsing_6
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 746
+        width: 1087
+        height: 225
+      alignment: 9
+      pivot: {x: 0.007568247, y: 0.11954888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa418a70106e24ca08456c4de0b8d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8504fbef0a3624c45b407190b0a73402
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 9fb8141f99fe6ab4ea9cb864f7e930db
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BossLaserBeamChargeDown_0
+    21300002: BossLaserBeamChargeDown_1
+    21300004: BossLaserBeamChargeDown_2
+    21300006: BossLaserBeamChargeDown_3
+    21300008: BossLaserBeamChargeDown_4
+    21300010: BossLaserBeamChargeDown_5
+    21300012: BossLaserBeamChargeDown_6
+    21300014: BossLaserBeamChargeDown_7
+    21300016: BossLaserBeamChargeDown_8
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossLaserBeamChargeDown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 1088
+        height: 1088
+      alignment: 9
+      pivot: {x: 0.009337157, y: 0.5219466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ebdd920a02e1442b794a5999a19511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaserBeamChargeDown_1
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2176
+        width: 1088
+        height: 1088
+      alignment: 9
+      pivot: {x: 0.0077696405, y: 0.5219466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0244342cced6e4ca5f5f53e95419f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaserBeamChargeDown_2
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2176
+        width: 1088
+        height: 1088
+      alignment: 9
+      pivot: {x: 0.0062020244, y: 0.5235143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc5125cc9cd1ad42bbce638d17b30f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaserBeamChargeDown_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 1088
+        height: 1088
+      alignment: 9
+      pivot: {x: 0.009337157, y: 0.5235143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a25a9cba14904a4f95196a8688ac8bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaserBeamChargeDown_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1088
+        width: 1088
+        height: 1088
+      alignment: 9
+      pivot: {x: 0.0062020244, y: 0.5250819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f296d0627920e304694422a533f0e3e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaserBeamChargeDown_5
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1088
+        width: 1088
+        height: 1088
+      alignment: 9
+      pivot: {x: 0.0062020244, y: 0.5219466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652a15868d7e62f499da3df391d5b519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaserBeamChargeDown_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1088
+        height: 1088
+      alignment: 9
+      pivot: {x: 0.0067053144, y: 0.5230109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8872da37387d1c446a55e3d4b3bcd5f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaserBeamChargeDown_7
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 1088
+        height: 1088
+      alignment: 9
+      pivot: {x: 0.0067055644, y: 0.5230111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c5256cac2a0f4f973c64b804b4e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossLaserBeamChargeDown_8
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 1088
+        height: 1088
+      alignment: 9
+      pivot: {x: 0.008143705, y: 0.5230109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad24a8fcd9862418113027d9c63b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f63d0b2aefefd1a41808cb1987d95383
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

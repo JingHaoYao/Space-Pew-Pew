@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 6566f72305947b540b3fc377398a8009
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LaserBurst_0
+    21300002: LaserBurst_1
+    21300004: LaserBurst_2
+    21300006: LaserBurst_3
+    21300008: LaserBurst_4
+    21300010: LaserBurst_5
+    21300012: LaserBurst_6
+    21300014: LaserBurst_7
+    21300016: LaserBurst_8
+    21300018: LaserBurst_9
+    21300020: LaserBurst_10
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaserBurst_0
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3414
+        width: 91
+        height: 57
+      alignment: 9
+      pivot: {x: 0.50888497, y: 0.18794116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6d2c3007e865245980247523b0f8bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_1
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 3414
+        width: 125
+        height: 74
+      alignment: 9
+      pivot: {x: 0.50646776, y: 0.13944389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9bab10628549458879555bfe2a257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_2
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 3414
+        width: 125
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12683776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aec5b557d7e6324ba8a491fadd4060a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2326
+        width: 159
+        height: 125
+      alignment: 9
+      pivot: {x: 0.51483077, y: 0.12271289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448e27ca3a758748bf49104ddc7bbc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_4
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2326
+        width: 193
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12636513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1e623df065ce84fabfe9c29cdd7aa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_5
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2326
+        width: 193
+        height: 176
+      alignment: 9
+      pivot: {x: 0.49389142, y: 0.11145852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bb0f263856fbb459e3f08bfff00b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1238
+        width: 193
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.078482985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9042c22b12f4bd547853f20b7bd708a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_7
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1238
+        width: 227
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08448449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de10cd79181172e41ac91b4b2489e1c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_8
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 1238
+        width: 193
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.111457825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421787bb119b74742a3afce167f53da9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 150
+        width: 159
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5089549, y: 0.12412524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1af54c6891fa2428368c02fec43fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBurst_10
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 150
+        width: 125
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5113906, y: 0.1921595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3fee80786a3a47a666c63bf37458a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d2354a362ce861c4ba9ac53455d3d180
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
