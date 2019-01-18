@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: ae6e5bcaf1d01d3428c1879a41b543f5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BuccaneerShooter_0
+    21300002: BuccaneerShooter_1
+    21300004: BuccaneerShooter_2
+    21300006: BuccaneerShooter_3
+    21300008: BuccaneerShooter_4
+    21300010: BuccaneerShooter_5
+    21300012: BuccaneerShooter_6
+    21300014: BuccaneerShooter_7
+    21300016: BuccaneerShooter_8
+    21300018: BuccaneerShooter_9
+    21300020: BuccaneerShooter_10
+    21300022: BuccaneerShooter_11
+    21300024: BuccaneerShooter_12
+    21300026: BuccaneerShooter_13
+    21300028: BuccaneerShooter_14
+    21300030: BuccaneerShooter_15
+    21300032: BuccaneerShooter_16
+    21300034: BuccaneerShooter_17
+    21300036: BuccaneerShooter_18
+    21300038: BuccaneerShooter_19
+    21300040: BuccaneerShooter_20
+    21300042: BuccaneerShooter_21
+    21300044: BuccaneerShooter_22
+    21300046: BuccaneerShooter_23
+    21300048: BuccaneerShooter_24
+    21300050: BuccaneerShooter_25
+    21300052: BuccaneerShooter_26
+    21300054: BuccaneerShooter_27
+    21300056: BuccaneerShooter_28
+    21300058: BuccaneerShooter_29
+    21300060: BuccaneerShooter_30
+    21300062: BuccaneerShooter_31
+    21300064: BuccaneerShooter_32
+    21300066: BuccaneerShooter_33
+    21300068: BuccaneerShooter_34
+    21300070: BuccaneerShooter_35
+    21300072: BuccaneerShooter_36
+    21300074: BuccaneerShooter_37
+    21300076: BuccaneerShooter_38
+    21300078: BuccaneerShooter_39
+    21300080: BuccaneerShooter_40
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuccaneerShooter_0
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 6698
+        width: 321
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd2427d14f1d945b1fde3b59b1f7ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_1
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 6698
+        width: 321
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c29ca85a6de3af438fc1d751366e82a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_2
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 6698
+        width: 321
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2be525c36dfd54b95e0ed3d3c7ac8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_3
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 6691
+        width: 321
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c7c3f80ae7f5143ab20adb865eeb93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_4
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 6680
+        width: 321
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf343a74c4be146bc8bd40421edee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_5
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 6669
+        width: 321
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38bba8a56509734b9a25a681c7e1f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 5576
+        width: 321
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e864052b94354880110b3e471fa50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_7
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 5565
+        width: 321
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13684087fb285204e95c0d7ad0231f09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_8
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 5550
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b522b4dee25724285fc322aaf34a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_9
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 5550
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f9e97ee95c9134d879392c6decb1c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_10
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 5550
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be61afb2452ce234f898126246e1605a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_11
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 5550
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed56c34cbc21cd24db57ebe7c6664f2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 4472
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283ce83f12d4b9249b1ec7e391a74fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_13
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 4472
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e4902c542f5c499b55d7ce7aef56a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_14
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 4472
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd6106f5dc7a4e43bcafac13cbf22b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_15
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 4472
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60acac7c2a0b6848a067cc056642422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_16
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 4472
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabead4be9d743b4c8d6c5f22f7571c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_17
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 4472
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c73d66371d4fa40b2a165b2e25d24a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 3391
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0540d7b3ba404f44187ff6262ac4e2a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_19
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3391
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e41218251b3f29449837e0c45a88889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_20
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 3391
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aff09232da3664469218e40efd31ecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_21
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3391
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6afaa57e164d24bb1c3c748dc391e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_22
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 3391
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6230355394e53884d975af431502f6a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_23
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 3391
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681bf27c10017a14e8476fd3e1f596fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_24
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2313
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2caf6a2e04aa84cbe5bef66233707c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_25
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2313
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39641a368d4360e46adfeb719eb49e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_26
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 2313
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2944ab2214c2c9d46bd6f64140f65e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_27
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2313
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029671b9c4f7ab941a22271e0ace07f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_28
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 2313
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a271145929307884690a3c6acb36ca37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_29
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 2313
+        width: 321
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4179122269f6c47bfd41a6e85841da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_30
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1231
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3343445486304e2418f1eb9eeabf7861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_31
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1231
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3864763037dbe2488c3a34f287b2a6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_32
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1231
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a8d7b02d49e154aab68ba24fd073ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_33
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1231
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ae8daedc540764699b3405d8964bd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_34
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 1231
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d7a569fa8348346a4bfc675a4386ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_35
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 1231
+        width: 321
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a6ec019396d994d85f47bc3b9d5a31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_36
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 150
+        width: 321
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0633fce7857494d439369475f96f02c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_37
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 150
+        width: 321
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a16fd83abcc6ab40956ba1092ca8480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_38
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 150
+        width: 321
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a67c90bf86a57f43b74bcf705edf2d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_39
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 127
+        width: 321
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e8afef91ab2474486bf6d0ec6d3709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuccaneerShooter_40
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 216
+        width: 321
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe0e1164e6131d4aa9696481a771ef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 073f76a565d1ee2459ffe12015004026
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

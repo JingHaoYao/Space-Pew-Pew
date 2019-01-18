@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 649b69f036d6d1a469d07d202a74e424
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerShipDissapearing_0
+    21300002: PlayerShipDissapearing_1
+    21300004: PlayerShipDissapearing_2
+    21300006: PlayerShipDissapearing_3
+    21300008: PlayerShipDissapearing_4
+    21300010: PlayerShipDissapearing_5
+    21300012: PlayerShipDissapearing_6
+    21300014: PlayerShipDissapearing_7
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerShipDissapearing_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 913
+        width: 151
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03afa1ade3b7e0245b363f81f11c0593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShipDissapearing_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 901
+        width: 212
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5285872, y: 0.4790113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b19832d11be54e831e391aa262114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShipDissapearing_2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 878
+        width: 258
+        height: 208
+      alignment: 9
+      pivot: {x: 0.52349025, y: 0.4791879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb00a65b123b6146aedae4494dce781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShipDissapearing_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 507
+        width: 239
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4701457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8515a5ec9c9ac0741936d69b48ac78cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShipDissapearing_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 506
+        width: 241
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5071849, y: 0.47856972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961624981996fdf4f9264a60819fdf5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShipDissapearing_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 493
+        width: 224
+        height: 221
+      alignment: 9
+      pivot: {x: 0.45748383, y: 0.49608243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2f8b9276361a4693ac484667b5374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShipDissapearing_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 185
+        width: 160
+        height: 130
+      alignment: 9
+      pivot: {x: 0.63307506, y: 0.3566883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eae15ff9547c9c4e8ca649b94cf1800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShipDissapearing_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 164
+        width: 150
+        height: 152
+      alignment: 9
+      pivot: {x: 0.511829, y: 0.4066142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c342a0e8692083b45a00f4e4ef19dafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8cfe8a232db45074c93ba393e29a36bc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

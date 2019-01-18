@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 9d91ca7b0142d71469e41b781f2ba3f3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SixthBossNapalm_0
+    21300002: SixthBossNapalm_1
+    21300004: SixthBossNapalm_2
+    21300006: SixthBossNapalm_3
+    21300008: SixthBossNapalm_4
+    21300010: SixthBossNapalm_5
+    21300012: SixthBossNapalm_6
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SixthBossNapalm_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1511
+        width: 310
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5036679, y: 0.8875792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47196ec0acb61654899f4276abf24b84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossNapalm_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1511
+        width: 310
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8875792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c514ec1d53abb4a819106baa4e5bf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossNapalm_2
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1511
+        width: 310
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8889742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f34e29d6bb3c444a9674f2e480a55b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossNapalm_3
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1511
+        width: 310
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8870098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35e6b4b40f2224c87db71407dcac51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossNapalm_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 423
+        width: 310
+        height: 531
+      alignment: 9
+      pivot: {x: 0.49593648, y: 0.8843154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a33a85cdeda443a9d2f48c0c89f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossNapalm_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 423
+        width: 310
+        height: 531
+      alignment: 9
+      pivot: {x: 0.49593663, y: 0.8843154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af27cc10b6b7d542a2218586d73619a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SixthBossNapalm_6
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 423
+        width: 310
+        height: 531
+      alignment: 9
+      pivot: {x: 0.49593663, y: 0.8843154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d54e542e43a3469d2bf17d4b74855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 099ff8809cef1644e8e7161644025185
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

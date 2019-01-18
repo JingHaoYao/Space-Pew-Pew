@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: c2f8e0989449bce46a3aaedc28242de1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BossEnding_0
+    21300002: BossEnding_1
+    21300004: BossEnding_2
+    21300006: BossEnding_3
+    21300008: BossEnding_4
+    21300010: BossEnding_5
+    21300012: BossEnding_6
+    21300014: BossEnding_7
+    21300016: BossEnding_8
+    21300018: BossEnding_9
+    21300020: BossEnding_10
+    21300022: BossEnding_11
+    21300024: BossEnding_12
+    21300026: BossEnding_13
+    21300028: BossEnding_14
+    21300030: BossEnding_15
+    21300032: BossEnding_16
+    21300034: BossEnding_28
+    21300036: BossEnding_29
+    21300038: BossEnding_17
+    21300040: BossEnding_18
+    21300042: BossEnding_19
+    21300044: BossEnding_20
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossEnding_0
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 13406
+        width: 2500
+        height: 1107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e4318b0908ee1418cd5a05e5bec08e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_1
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 13406
+        width: 2500
+        height: 1107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7bd753358da6644bf973fa3de17a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_2
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 13406
+        width: 2500
+        height: 1107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb57e980af02ef94e91e7fcf5292ea9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_3
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 11227
+        width: 2500
+        height: 1108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750659997a6f6644298b303098784b38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_4
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 11227
+        width: 2500
+        height: 1108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937911516513f043b5cdb6784b54791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_5
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 11227
+        width: 2500
+        height: 1108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9dbe23927836b419d03f1a9e265f2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_6
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 9049
+        width: 2500
+        height: 1107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d91e012e87918458341fd362614b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_7
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 9049
+        width: 2500
+        height: 1107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca043eb3f477074780fbf81045b5e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_8
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 9049
+        width: 2500
+        height: 1107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c161d52e04a07fb4498321999a932e0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_9
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 6824
+        width: 2552
+        height: 1175
+      alignment: 9
+      pivot: {x: 0.5100052, y: 0.5144864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e61da75ba970b4faa5ae45899870c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_10
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 6824
+        width: 2552
+        height: 1175
+      alignment: 9
+      pivot: {x: 0.5133403, y: 0.52172995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a46698abd455854ebfb4a9d86e78d0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_11
+      rect:
+        serializedVersion: 2
+        x: 9868
+        y: 6824
+        width: 2552
+        height: 1175
+      alignment: 9
+      pivot: {x: 0.5133401, y: 0.5144864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d458cf6a43ad64b9da3c2283783b07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_12
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 4697
+        width: 2500
+        height: 1108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fa2236a713ba74cb5ae6777fcf0f35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_13
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 4697
+        width: 2500
+        height: 1108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c5e8cb770107449180fe35beee14d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_14
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 4697
+        width: 2500
+        height: 1108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c53cae6abb4145b111f8a63f381f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_15
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2623
+        width: 2210
+        height: 958
+      alignment: 9
+      pivot: {x: 0.43457517, y: 0.46765903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6ddb7e5ef51842bea0d4f376680b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_16
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 2763
+        width: 2128
+        height: 632
+      alignment: 9
+      pivot: {x: 0.41264126, y: 0.51634157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522e4d15ee08bfb42a813f4a0994d83f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_28
+      rect:
+        serializedVersion: 2
+        x: 10292
+        y: 755
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3433b2444fd8ab843b52970ab3de06e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_29
+      rect:
+        serializedVersion: 2
+        x: 12110
+        y: 651
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b25327ab8858bc40bb81eb4b8ad56b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_17
+      rect:
+        serializedVersion: 2
+        x: 10287
+        y: 2773
+        width: 2127
+        height: 619
+      alignment: 9
+      pivot: {x: 0.4478694, y: 0.53336954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9852ddb192aa17439405cc0bbce4f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_18
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 619
+        width: 2113
+        height: 557
+      alignment: 9
+      pivot: {x: 0.4284208, y: 0.504537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d79371e2815a544939d46804de8e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_19
+      rect:
+        serializedVersion: 2
+        x: 5918
+        y: 657
+        width: 2141
+        height: 472
+      alignment: 9
+      pivot: {x: 0.42893034, y: 0.478362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22506476c391bc94c8471fddc77e945a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEnding_20
+      rect:
+        serializedVersion: 2
+        x: 10296
+        y: 654
+        width: 2106
+        height: 471
+      alignment: 9
+      pivot: {x: 0.4144163, y: 0.47624424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28aa0c7de3e9ae499f423454001a860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a95ff6e9ff49b314d90c2cb216a7a9ff
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

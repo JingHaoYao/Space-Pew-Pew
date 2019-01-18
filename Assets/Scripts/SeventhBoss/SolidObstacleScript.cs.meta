@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43b9ffe36566cea4f8b23d1f82f41e26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redDrop: {fileID: 1511465000178898, guid: 2677e1194d62a1a43a7b0340b9816c98, type: 2}
+  - greenDrop: {fileID: 1252473043795812, guid: 5a7f0c89b7ae52c459c6844213313db7,
+      type: 2}
+  - blueDrop: {fileID: 1448854582103896, guid: b26f766980b649542b56c2dcc68c99de, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

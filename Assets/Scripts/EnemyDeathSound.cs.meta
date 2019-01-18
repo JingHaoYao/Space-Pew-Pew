@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9370491c18733454498903373d949225
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyDeathSound: {fileID: 8300000, guid: 3dd7f0a12e1fb4944a164819ffa69b99, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

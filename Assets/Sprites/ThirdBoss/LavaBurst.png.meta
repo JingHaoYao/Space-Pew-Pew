@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 631676cc3a1e0fe48853c4c7322d258c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LavaBurst_0
+    21300002: LavaBurst_1
+    21300004: LavaBurst_2
+    21300006: LavaBurst_3
+    21300008: LavaBurst_4
+    21300010: LavaBurst_5
+    21300012: LavaBurst_6
+    21300014: LavaBurst_7
+    21300016: LavaBurst_8
+    21300018: LavaBurst_9
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaBurst_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3659
+        width: 158
+        height: 225
+      alignment: 9
+      pivot: {x: 0.0795305, y: 0.46719402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0175e6676a0a1242965088fd6f221df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBurst_1
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3625
+        width: 225
+        height: 293
+      alignment: 9
+      pivot: {x: 0.04070204, y: 0.44961455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c7488e6a5ce7d47ab7fa964fa7d757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBurst_2
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3625
+        width: 343
+        height: 293
+      alignment: 9
+      pivot: {x: 0.03371988, y: 0.44121626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4da8b9e149a7e442882bf6c7d6700a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBurst_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2528
+        width: 444
+        height: 344
+      alignment: 9
+      pivot: {x: 0.01942017, y: 0.4293873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399eefb023c84846ac0294556ec6533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBurst_4
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2478
+        width: 495
+        height: 444
+      alignment: 9
+      pivot: {x: 0.0214353, y: 0.44875193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48fafd733cc0ee40944595da5164c17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBurst_5
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2461
+        width: 360
+        height: 478
+      alignment: 9
+      pivot: {x: 0.026389567, y: 0.4427526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45809a5f879ebeb48985afae64bf8601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBurst_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1381
+        width: 276
+        height: 478
+      alignment: 9
+      pivot: {x: 0.034778457, y: 0.42954144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343177ba1888dd24bb522a4a6a93cef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBurst_7
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1381
+        width: 191
+        height: 428
+      alignment: 9
+      pivot: {x: 0.05917598, y: 0.48032728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccbe93459b2a424684a89fb29e01f69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBurst_8
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1465
+        width: 124
+        height: 259
+      alignment: 9
+      pivot: {x: 0.058642972, y: 0.47561797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f43d36d488dfc49a7747914fe90c14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBurst_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 469
+        width: 73
+        height: 108
+      alignment: 9
+      pivot: {x: 0.009809259, y: 0.46101832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617bbd79c0798774cb0e0d379f55131c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ffc564a75ff3feb448f071b439ce67b4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

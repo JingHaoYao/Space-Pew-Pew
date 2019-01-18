@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: d539d45b339988846811e568a1fc889d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LightningEffectRed_0
+    21300002: LightningEffectRed_1
+    21300004: LightningEffectRed_2
+    21300006: LightningEffectRed_3
+    21300008: LightningEffectRed_4
+    21300010: LightningEffectRed_5
+    21300012: LightningEffectRed_6
+    21300014: LightningEffectRed_7
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightningEffectRed_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2243
+        width: 813
+        height: 997
+      alignment: 9
+      pivot: {x: 0.39470968, y: 0.44276065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5123e329a09d048409faf40451a2d3e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningEffectRed_1
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2604
+        width: 190
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0474d27f1e82fcf4584515afcc8306b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningEffectRed_2
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 2311
+        width: 763
+        height: 762
+      alignment: 9
+      pivot: {x: 0.4875341, y: 0.4937587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19595c236b08514c8827b91a17ebd30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningEffectRed_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1526
+        width: 189
+        height: 178
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.47328237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8512ecf75dc37e546862a6ce5a413878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningEffectRed_4
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1145
+        width: 881
+        height: 916
+      alignment: 9
+      pivot: {x: 0.51079583, y: 0.5103833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480622a80bab9d4abd3c605e8edc54c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningEffectRed_5
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1529
+        width: 189
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5251594, y: 0.44470143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d2fa922b9ef4c44915dbe80a2b0b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningEffectRed_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 797
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.48209935, y: 0.52853376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352c8b2e0a3397479b08f5542b75f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningEffectRed_7
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 454
+        width: 190
+        height: 172
+      alignment: 9
+      pivot: {x: 0.49999934, y: 0.4447018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4e4479bba35714f9b5d5ae0e22706c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e7c5aef56c9c35846b641eab1533d95c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: ca67094957605d14498737bc5a1e9401
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SeventhBossTurret_0
+    21300002: SeventhBossTurret_1
+    21300004: SeventhBossTurret_2
+    21300006: SeventhBossTurret_3
+    21300008: SeventhBossTurret_4
+    21300010: SeventhBossTurret_5
+    21300012: SeventhBossTurret_6
+    21300014: SeventhBossTurret_7
+    21300016: SeventhBossTurret_8
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeventhBossTurret_0
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2548
+        width: 818
+        height: 412
+      alignment: 9
+      pivot: {x: 0.7716293, y: 0.49620336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67046ff98127c438510d90fac0b94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeventhBossTurret_1
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2548
+        width: 819
+        height: 412
+      alignment: 9
+      pivot: {x: 0.76938725, y: 0.48101154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5fab7c7aacc454088ca8e8629e09a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeventhBossTurret_2
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2548
+        width: 834
+        height: 412
+      alignment: 9
+      pivot: {x: 0.7757993, y: 0.48860717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c15486401a84cd46bdf4103bb9e40a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeventhBossTurret_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1461
+        width: 871
+        height: 411
+      alignment: 9
+      pivot: {x: 0.7827559, y: 0.49679586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249772e247da7d44a8fa13739530a3f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeventhBossTurret_4
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1461
+        width: 888
+        height: 411
+      alignment: 9
+      pivot: {x: 0.7892078, y: 0.49359146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f11d3c08a32a4c982a9b1767fc23d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeventhBossTurret_5
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1461
+        width: 903
+        height: 411
+      alignment: 9
+      pivot: {x: 0.79607147, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a34a5e8b15997479e04cbb7d362405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeventhBossTurret_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 372
+        width: 869
+        height: 411
+      alignment: 9
+      pivot: {x: 0.78369313, y: 0.49214175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aab0cc5025f7e4ba3c7a52960235c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeventhBossTurret_7
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 372
+        width: 819
+        height: 411
+      alignment: 9
+      pivot: {x: 0.77077985, y: 0.49738038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5b547bbb56d294d96f08e958d76f4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeventhBossTurret_8
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 372
+        width: 818
+        height: 411
+      alignment: 9
+      pivot: {x: 0.7724269, y: 0.49738038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdf2f6f999fc814a8fef3db45c98d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ea3821e9e74c8f345bf1155d76e5953c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

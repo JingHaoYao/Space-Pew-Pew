@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 4a8857b4b7b935246a83dc9d70355de3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PirateCaptainSummonHighSeas_0
+    21300002: PirateCaptainSummonHighSeas_1
+    21300004: PirateCaptainSummonHighSeas_2
+    21300006: PirateCaptainSummonHighSeas_3
+    21300008: PirateCaptainSummonHighSeas_4
+    21300010: PirateCaptainSummonHighSeas_5
+    21300012: PirateCaptainSummonHighSeas_6
+    21300014: PirateCaptainSummonHighSeas_7
+    21300016: PirateCaptainSummonHighSeas_8
+    21300018: PirateCaptainSummonHighSeas_9
+    21300020: PirateCaptainSummonHighSeas_10
+    21300022: PirateCaptainSummonHighSeas_11
+    21300024: PirateCaptainSummonHighSeas_12
+    21300026: PirateCaptainSummonHighSeas_13
+    21300028: PirateCaptainSummonHighSeas_14
+    21300030: PirateCaptainSummonHighSeas_15
+    21300032: PirateCaptainSummonHighSeas_16
+    21300034: PirateCaptainSummonHighSeas_17
+    21300036: PirateCaptainSummonHighSeas_18
+    21300038: PirateCaptainSummonHighSeas_19
+    21300040: PirateCaptainSummonHighSeas_20
+    21300042: PirateCaptainSummonHighSeas_21
+    21300044: PirateCaptainSummonHighSeas_22
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4671
+        width: 408
+        height: 348
+      alignment: 9
+      pivot: {x: 0.43539414, y: 0.6731476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bffca855b3ed94fb598058e41739ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_1
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 4624
+        width: 366
+        height: 395
+      alignment: 9
+      pivot: {x: 0.4789482, y: 0.7145706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc9739753b329439801585da7a4b0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_2
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 4558
+        width: 355
+        height: 461
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75627667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1a5cd0e78c52a4b818e9922c179986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_3
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 4508
+        width: 395
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d5962b2262644c8739cabc1aa3537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 3357
+        width: 355
+        height: 583
+      alignment: 9
+      pivot: {x: 0.49198464, y: 0.80259705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b84d3e6594e12438dd0b18141ce3ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_5
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3357
+        width: 353
+        height: 583
+      alignment: 9
+      pivot: {x: 0.49187317, y: 0.812438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3543b6af213d4fc4a8fd30eca56ab941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_6
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 3357
+        width: 355
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.80210876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784c09b40e2dc2f458bb352348cfb8c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_7
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 3357
+        width: 353
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5000014, y: 0.80744296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88b4bdb14040fd488f5b0a346aecd2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2277
+        width: 355
+        height: 582
+      alignment: 9
+      pivot: {x: 0.4952128, y: 0.8100393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90437a875b3cc7e4eab2d2962f31082d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_9
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2276
+        width: 353
+        height: 582
+      alignment: 9
+      pivot: {x: 0.4959478, y: 0.80723083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ba2c78687cdc45b3b029e57b93a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 2277
+        width: 355
+        height: 582
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.8072149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e085f219b2932fb44acc534a13866465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_11
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2277
+        width: 353
+        height: 582
+      alignment: 9
+      pivot: {x: 0.5, y: 0.80575216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3953fadc033fcea409fa59106b11db3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1196
+        width: 355
+        height: 582
+      alignment: 9
+      pivot: {x: 0.4960786, y: 0.8096735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591746652d739b045a2fdf68d2129d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_13
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1196
+        width: 353
+        height: 582
+      alignment: 9
+      pivot: {x: 0.5, y: 0.80847585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b1ac67ab1bd5643aa2b17c84508c8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_14
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1197
+        width: 355
+        height: 582
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8082737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87550c60e03964f4482e103da3da6c06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_15
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 1115
+        width: 353
+        height: 663
+      alignment: 9
+      pivot: {x: 0.4999993, y: 0.83170134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751bd5934a134fb49a5cbd6242806a8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 29
+        width: 355
+        height: 671
+      alignment: 9
+      pivot: {x: 0.5053824, y: 0.8331724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4a27bd40ed39e4b81d28591a7e4e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_18
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 23
+        width: 353
+        height: 677
+      alignment: 9
+      pivot: {x: 0.50541294, y: 0.83304226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857305498f4b75a429e7035b937f5815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateCaptainSummonHighSeas_19
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 18
+        width: 355
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0.83620375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6814782f4e16d498f532fd5fd5354e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3fc3d0281c024ba499fd2387077a7a9b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

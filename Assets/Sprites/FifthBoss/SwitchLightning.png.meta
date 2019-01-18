@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 4e08ad7efe4560d4980c319c9a9ae340
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SwitchLightning_0
+    21300002: SwitchLightning_1
+    21300004: SwitchLightning_2
+    21300006: SwitchLightning_3
+    21300008: SwitchLightning_4
+    21300010: SwitchLightning_5
+    21300012: SwitchLightning_6
+    21300014: SwitchLightning_7
+    21300016: SwitchLightning_8
+    21300018: SwitchLightning_9
+    21300020: SwitchLightning_10
+    21300022: SwitchLightning_11
+    21300024: SwitchLightning_12
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwitchLightning_0
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 3873
+        width: 142
+        height: 74
+      alignment: 9
+      pivot: {x: 0.95477253, y: 0.5906652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2139ce6f432d93545b8408915731c057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_1
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 3873
+        width: 346
+        height: 91
+      alignment: 9
+      pivot: {x: 0.98235697, y: 0.49078166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bed1a6b1659fc4aa82f9dab88bbc4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_2
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 3839
+        width: 533
+        height: 125
+      alignment: 9
+      pivot: {x: 0.9877824, y: 0.6274766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d07ddea137916469793c0a40ce8e82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_3
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 3788
+        width: 635
+        height: 295
+      alignment: 9
+      pivot: {x: 0.99131554, y: 0.43745366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8e56c3f4752f242882cc9c94b321be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2649
+        width: 754
+        height: 397
+      alignment: 9
+      pivot: {x: 0.98878103, y: 0.45563158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283cb50f478b72f45bd14192c0ab4d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_5
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2581
+        width: 873
+        height: 499
+      alignment: 9
+      pivot: {x: 0.9951004, y: 0.4972841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed158d9e225cb049857261c762bb4ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_6
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2530
+        width: 941
+        height: 584
+      alignment: 9
+      pivot: {x: 0.9934404, y: 0.51606184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ddee550404da42aafc0b9d449aa96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_7
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 2581
+        width: 873
+        height: 499
+      alignment: 9
+      pivot: {x: 0.99247724, y: 0.49999952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c596eba929d4b74cabeec60dd8df2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1561
+        width: 754
+        height: 397
+      alignment: 9
+      pivot: {x: 0.9902805, y: 0.45668995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18d48e757d36614a921f7b1dc36cc42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_9
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1612
+        width: 635
+        height: 295
+      alignment: 9
+      pivot: {x: 0.9888941, y: 0.43847656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e1ad538e277a1439bf5551242d2d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_10
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1663
+        width: 533
+        height: 125
+      alignment: 9
+      pivot: {x: 0.98746866, y: 0.62990916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f8f9721782a04b9fcfda31ef69776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_11
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 1697
+        width: 346
+        height: 91
+      alignment: 9
+      pivot: {x: 0.98469675, y: 0.48463926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576f30e72babe44f949bfa746c5262f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchLightning_12
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 609
+        width: 142
+        height: 74
+      alignment: 9
+      pivot: {x: 0.9575015, y: 0.6064123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11eefc66cf00264bbd054aa43c36cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: edb55e2b787d2474d9613733f0cd1a39
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
